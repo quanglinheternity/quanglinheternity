@@ -8,21 +8,21 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#777BB4" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Springboot.js-282C34?logo=springboot&logoColor=#6DB33F" alt="Springboot logo" title="Springboot" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Springboot-282C34?logo=springboot&logoColor=#6DB33F" alt="Springboot logo" title="Springboot" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Php-282C34?logo=php&logoColor=#777BB4" alt="Php logo" title="PHP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laravel.js-282C34?logo=laravel&logoColor=#FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=#FF2D20" alt="laravel logo" title="laravel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=#4479A1" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Laragon.js-282C34?logo=laragon&logoColor=#0E83CD" alt="Laragon logo" title="Laragon" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=#0E83CD" alt="Laragon logo" title="Laragon" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dbeaver-282C34?logo=dbeaver&logoColor=4B32C3" alt="Dbeaver logo" title="Dbeaver" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker.js-282C34?logo=docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=#FF4438" alt="Redis logo" title="Redis" height="25" /></span>
 &nbsp;
@@ -48,10 +48,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Intellijidea-282C34?logo=intellijidea&logoColor=007ACC" alt="intellijidea logo" title="Intellij IDEA" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Intellij IDEA-282C34?logo=intellijidea&logoColor=#000000" alt="intellijidea logo" title="Intellij IDEA" height="25" /></span>
 &nbsp;
-
-
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
