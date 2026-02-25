@@ -1,6 +1,6 @@
 <!-- QuangLinhDev -->
 <a href="#" target="_blank">
-  <img src="svg/quanglinhgdev.svg.svg" width="1200" alt="quanglinhdev-official" />
+  <img src="svg/quanglinhgdev.svg" width="1200" alt="quanglinhdev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
