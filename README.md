@@ -78,6 +78,9 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quanglinhdev-youtube" />
   </a>
+  <a href="https://t.me/quanglinheternity" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/telegram-app.png" alt="quanglinhdev-telegram" />
+  </a>
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quanglinhdev-linkedin" />
   </a>
